@@ -39,6 +39,8 @@
     "mocha": "^2.0.1",
     "pygmentize-bundled": "^2.3.0",
     "react": "0.14.x",
+    "react-dom": "0.14.x",
+    "react-addons-css-transition-group": "0.14.x",
     "rf-changelog": "^0.4.0",
     "rx": "2.3.18",
     "webpack": "^1.4.13",
